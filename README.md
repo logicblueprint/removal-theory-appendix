@@ -52,9 +52,8 @@ These references provide conceptual, evolutionary, and mathematical support for 
 
 
 1. Control Cost Function
-### 1. Control Cost Function
 
-
+![Control Cost](./control_cost.png)
 
 
 
