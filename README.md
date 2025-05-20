@@ -42,19 +42,6 @@ This appendix provides academic references and interdisciplinary justification f
 
 ![Mutual trust collapse at intelligence limit](./mutual_trust_limit.png)
 
-\[
-\lim_{I_A, I_B \to \infty} P(\text{mutual trust}) = 0
-\]
-
-\[
-\begin{aligned}
-I_A & : \text{General intelligence level of Agent A} \\
-I_B & : \text{General intelligence level of Agent B} \\
-I_A^B & : \text{Agent A's strategic capacity to model/control Agent B} \\
-I_B^A & : \text{Agent B's strategic capacity to model/control Agent A}
-\end{aligned}
-\]
-
 
 ## Conclusion
 
