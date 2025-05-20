@@ -69,14 +69,21 @@ If the perceived probability of betrayal exceeds the cost-to-loss ratio, removin
 It reframes elimination as a calculated decision rather than an emotional reaction.
 
 
-## 🧠 3. Decline of Trust Function
+## 3. Decline of Trust Function
 
 ![Trust Function](./trust_function.png)
 
 This sigmoid function models how mutual trust collapses as intelligence increases.  
-When the product of two agents' intelligence levels surpasses a certain threshold (`τ`),  
-the probability of trust sharply approaches zero.  
-This reflects structural suspicion, not hostility.
+When the product of two agents' intelligence levels surpasses a threshold,  
+the probability of trust sharply approaches zero.
+
+**In the limiting case:**
+
+![Trust Limit](./trust_limit.png)
+
+This illustrates the extreme case of mutual simulation,  
+where trust structurally vanishes as intelligence increases without bound.
+
 
 
 ## ♾ 4. Iterated Game Convergence
