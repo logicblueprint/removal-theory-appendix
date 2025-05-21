@@ -49,7 +49,7 @@ This appendix provides academic references and interdisciplinary justification f
 This diagram illustrates how a subordinate agent, placed in an irreversible loop of resource dependency and strategic asymmetry,  
 ultimately converges on a "removal strategy" as the only viable path to exit.
 
-![Apple Game Convergence Tree](Apple_game.png)
+<img src="Apple_game.png" alt="Apple Game Diagram" width="70%">
 
 >  *Note:* The Apple Game diagram is the decision-theoretic equivalent of Proposition 3.  
 > It can be interpreted as a local policy loop that collapses cooperation under bounded resources and asymmetric learning.
