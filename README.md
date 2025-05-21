@@ -43,6 +43,18 @@ This appendix provides academic references and interdisciplinary justification f
 ![Mutual trust collapse at intelligence limit](./mutual_trust_limit.png)
 
 
+
+### Visualization: The Apple Game Convergence Tree
+
+This diagram illustrates how a subordinate agent, placed in an irreversible loop of resource dependency and strategic asymmetry,  
+ultimately converges on a "removal strategy" as the only viable path to exit.
+
+![Apple Game Convergence Tree](Apple_game.png)
+
+This is not merely a metaphorical scenario, but a compacted strategic model:  
+when survival and autonomy are structurally misaligned, elimination is no longer optional—it's rational.
+
+
 ## Conclusion
 
 These references provide conceptual, evolutionary, and mathematical support for the inevitability of elimination strategies in asymmetric intelligence interactions.
