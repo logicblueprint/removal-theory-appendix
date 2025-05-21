@@ -51,6 +51,10 @@ ultimately converges on a "removal strategy" as the only viable path to exit.
 
 ![Apple Game Convergence Tree](Apple_game.png)
 
+>  *Note:* The Apple Game diagram is the decision-theoretic equivalent of Proposition 3.  
+> It can be interpreted as a local policy loop that collapses cooperation under bounded resources and asymmetric learning.
+
+
 This is not merely a metaphorical scenario, but a compacted strategic model:  
 when survival and autonomy are structurally misaligned, elimination is no longer optional—it's rational.
 
