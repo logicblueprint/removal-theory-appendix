@@ -52,3 +52,11 @@ if the relative intelligence gap exceeds a critical threshold,
 the optimal strategy over time (`Sₜ`) converges toward elimination (`R`).  
 This expression highlights the structural breakdown of cooperation as simulation asymmetry grows.
 
+
+
+
+
+
+
+
+
