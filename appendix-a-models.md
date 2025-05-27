@@ -52,12 +52,3 @@ if the relative intelligence gap exceeds a critical threshold,
 the optimal strategy over time (`Sₜ`) converges toward elimination (`R`).  
 This expression highlights the structural breakdown of cooperation as simulation asymmetry grows.
 
-
-
-## 🍎 5. Strategic Convergence Tree (Apple Game)
-
-![Apple Game Tree](./Apple_game.png)
-
-A visual abstraction of elimination convergence.  
-This diagram presents a simplified decision tree in which control asymmetry and epistemic uncertainty  
-steer agents toward elimination as an optimal stable state.
