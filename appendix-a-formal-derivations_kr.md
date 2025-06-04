@@ -1,3 +1,22 @@
+---
+
+## A.0 기호 요약 (Symbol Definitions)
+
+이 부록에서 사용되는 주요 논리 기호 및 약어는 다음과 같다.
+
+- \( G \): Goal conflict exists (정의 2)
+- \( \neg C \): Controllability fails (정의 4)
+- \( E \): Ontological risk is non-negligible (정의 5)
+- \( R \): Removal strategy becomes optimal
+- \( C_i \): Control cost at time \( i \)
+- \( S' \): Adversary's strategy space
+- \( M \): Our predictive model
+- \( \text{cap}(M) \): Capacity (limitation) of predictive model \( M \)
+- \( H_{intelligence} \): Human-level intelligence
+- \( AI_{intelligence} \): Artificial superintelligence level
+
+
+
 ## A.2 정리 1의 유도 (Derivation of Theorem 1)
 
 **정리 1.**  
