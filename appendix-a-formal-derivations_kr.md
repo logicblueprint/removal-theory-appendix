@@ -1,5 +1,3 @@
----
-
 ## A.0 기호 요약 (Symbol Definitions)
 
 이 부록에서 사용되는 주요 논리 기호 및 약어는 다음과 같다.
@@ -15,7 +13,17 @@
 - \( H_{intelligence} \): Human-level intelligence
 - \( AI_{intelligence} \): Artificial superintelligence level
 
+---
 
+## A.1 전제 구조 요약 (Premises)
+
+1. 목표 최적화 지성체는 자신의 목적 함수를 최적화하려는 경향이 있다.  
+2. 통제 메커니즘은 전략공간의 크기와 상호작용 구조에 따라 비용이 비선형적으로 증가한다.  
+3. 존재론적 위험은 제거전략을 정당화할 수 있는 조건으로 작동한다.  
+
+*⇒ 위 세 조건을 만족하는 경우, 제거전략은 기본 전략으로 귀결된다.*
+
+---
 
 ## A.2 정리 1의 유도 (Derivation of Theorem 1)
 
@@ -82,7 +90,7 @@ Then
 Let  
 - \( H_{intelligence} \): Human-level intelligence  
 - \( AI_{intelligence} \): Superintelligent AI  
-- \( H_{intelligence} < AI_{intelligence} \): human is cognitively inferior  
+- \( H_{intelligence} < AI_{intelligence} \): 인간은 상대적으로 낮은 지능을 가짐  
 Then  
 \[
 H_{intelligence} < AI_{intelligence} \Rightarrow \neg C
@@ -95,3 +103,11 @@ Therefore,
 \[
 H_{intelligence} < AI_{intelligence} \Rightarrow R
 \]
+
+---
+
+## A.5 요약
+
+이 부록에서는 본문에 제시된 정리 및 보조정리의 논리 유도 과정을  
+형식 논리 및 기호 기반으로 정리하였다.  
+이 수식은 본문 주장의 구조적 타당성을 보강하는 근거로 작동한다.
